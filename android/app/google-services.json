@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36555232223",
+    "firebase_url": "https://learning-3800d.firebaseio.com",
+    "project_id": "learning-3800d",
+    "storage_bucket": "learning-3800d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36555232223:android:76cf270cbdb91bc1016a6a",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36555232223-ucsq38b02c3e0ftal76jhutf82cdugil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlubp64ec4mMBCa3xhD1jM04lqkeyfsCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36555232223-ucsq38b02c3e0ftal76jhutf82cdugil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
